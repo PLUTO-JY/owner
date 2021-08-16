@@ -14,7 +14,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/l
 # git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/lean/luci-theme-edge                      #主题-edge-动态登陆界面
 git clone https://github.com/DevOpenWRT-Router/luci-app-rebootschedule.git package/lean/luci-app-rebootschedule        #多功能定时任务
 git clone https://github.com/mitsukileung/luci-app-filebrowser.git package/lean/luci-app-filebrowser                   #文件管理
-# git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome                  #adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome                  #adguardhome
 git clone https://github.com/small-5/luci-app-adblock-plus.git package/lean/luci-app-adblock-plus                      #需取消勾选base-system->dnsmasq
 # git clone -b master https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash                         #openclash
 # git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-app-serverchan                           #微信推送
