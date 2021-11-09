@@ -18,3 +18,4 @@ git clone https://github.com/DevOpenWRT-Router/luci-app-rebootschedule.git packa
 git clone https://github.com/small-5/luci-app-adblock-plus.git package/lean/luci-app-adblock-plus                      #需取消勾选base-system->dnsmasq
 # git clone -b master https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash                         #openclash
 # git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-app-serverchan                           #微信推送
+git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR
